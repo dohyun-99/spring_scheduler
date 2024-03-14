@@ -15,4 +15,4 @@ JAVA 기반의 Job Scheduling 오픈소스 라이브러리로, 일정 시간마�
     
 ---
 > ### 상세 내용  
-> [세미나 정리용 노션 링크](https://www.notion.so/SpringBoot-ea215814c6664a7d9eab4b245c8b59fb?pvs=4)
+> [세미나 정리용 노션 링크](https://power-blackbird-241.notion.site/Spring-Boot-ea215814c6664a7d9eab4b245c8b59fb?pvs=4)
